@@ -22,7 +22,7 @@ def main() -> None:
     # Set page config
     st.set_page_config(
         page_title="ProfitDNA Analyzer",
-        page_icon="",
+        page_icon="💰",
         layout="wide",
         initial_sidebar_state="expanded"
     )
